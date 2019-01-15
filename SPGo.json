@@ -1,0 +1,6 @@
+{
+    "sourceDirectory": "src",
+    "sharePointSiteUrl": "https://ecm.dev.opcw.org/sites/osdtemplate",
+    "publishingScope": "None",
+    "authenticationType": "NTLM"
+}
